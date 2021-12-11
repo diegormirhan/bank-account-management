@@ -41,18 +41,53 @@ class Account:
     def total_balance(self) -> float:
         return self.__total_balance
 
+    @total_balance.setter
+    def total_balance(self, value) -> None:
+        self.__total_balance = value
+
     @property
     def _calculate_total_balance(self) -> float:
         return self.balance + self.limit
 
-    def deposit(self, value: float) -> float:
-        pass
+    def deposit(self, value: float) -> None:
+        if value > 0:
+            self.balance = self.balance + value
+            self.total_balance = self._calculate_total_balance
+            print('Successful deposit!')
+        else:
+            print('Error when making the withdrawal!')
 
-    def withdraw(self, value: float) -> None:
-        pass
+    def withdraw(self, value) -> None:
+        if 0 < value <= self.total_balance:
+            if self.balance >= value:
+                self.balance = self.balance - value
+                self.total_balance = self._calculate_total_balance
+            else:
+                remaining: float = self.balance - value
+                self.limit = self.__limit + remaining
+                self.balance = 0
+                self.total_balance = self._calculate_total_balance
+            print('Successful withdrawal!')
+        else:
+            print('Withdrawal not performed. Try again!')
 
-    def transfer(self, destiny: object, value: float) -> None:
-        pass
+    def transfer(self, destiny, value: float) -> None:
+        if 0 < value <= self.total_balance:
+            if self.balance >= value:
+                self.balance = self.balance - value
+                self.total_balance = self._calculate_total_balance
+                destiny.balance = destiny.balance + value
+                destiny.total_balance = destiny._calculate_total_balance
+            else:
+                remaining: float = self.balance - value
+                self.balance = 0
+                self.limit = self.limit + remaining
+                self.total_balance = self._calculate_total_balance
+                destiny.balance = destiny.balance + value
+                destiny.total_balance = destiny._calculate_total_balance
+            print('Successful Transfer')
+        else:
+            print('Transfer not performed. Try again!')
 
     def __str__(self) -> str:
         return f'Account Number: {self.number}\n' \
