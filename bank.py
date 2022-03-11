@@ -2,6 +2,8 @@ from typing import List
 from time import sleep
 from models.client import Client
 from models.account import Account
+from validation import validation_email, validation_cpf, validation_birth
+
 
 accounts: List[Account] = []
 
@@ -47,9 +49,36 @@ def create_acc() -> None:
     print('Inform the customer data: ')
 
     name: str = input('Client Name: ')
+
     email: str = input('Client E-mail: ')
+    print("Checking E-mail...")
+    validate_1 = validation_email(email)
+    if validate_1:
+        pass
+    else:
+        print("The E-mail must be valid. Try again...\n")
+        sleep(2)
+        create_acc()
+
     cpf: str = input('Client CPF: ')
+    print("Checking CPF...")
+    validate_2 = validation_cpf(cpf)
+    if validate_2:
+        sleep(1)
+    else:
+        print("The CPF must be valid. Try again...\n")
+        sleep(2)
+        create_acc()
+
     birth_date: str = input('Client Birth Date: ')
+    print("Checking Birth date...")
+    validate_3 = validation_birth(birth_date)
+    if validate_3:
+        sleep(1)
+    else:
+        print("You must be over 18 years old. Try again later...\n")
+        sleep(2)
+        exit()
 
     client: Client = Client(name, email, cpf, birth_date)
     account: Account = Account(client)
@@ -89,7 +118,7 @@ def make_deposit() -> None:
         acc: Account = search_acc_by_number(number)
 
         if acc:
-            value: float = float(input('Inform the deposit amount'))
+            value: float = float(input('Inform the deposit amount: '))
             acc.deposit(value)
 
         else:
