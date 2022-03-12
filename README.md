@@ -36,12 +36,17 @@
 
 #### Installation
 
+You can install from source with:
+
+```html
+    <p>$ git clone https://github.com/python-telegram-bot/python-telegram-bot</p>
+```
 
 
 #### API Reference
 
 ```html
-    <p>dummy code</p>
+    <p>$ git clone https://github.com/python-telegram-bot/python-telegram-bot</p>
 ```
 
 <br />
