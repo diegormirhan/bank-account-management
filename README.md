@@ -41,6 +41,12 @@ You can install from source with:
 ```
 $ git clone https://github.com/python-telegram-bot/python-telegram-bot
 ```
+with GitHub Cli:
+```
+$ gh repo clone diegormirhan/Python-Bank
+```
+or: 
+<a href="url">https://github.com/diegormirhan/Python-Bank/releases/tag/v1.0.0</a>
 
 
 #### API Reference
