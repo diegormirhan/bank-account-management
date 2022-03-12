@@ -5,7 +5,6 @@
 > Here's an example of the project!
 
 <br />
-
 ---
 
 ### Summary
@@ -15,7 +14,7 @@
 - [License](#license)
 - [Author Info](#author-info)
 
-
+<br />
 ---
 
 ## Description
@@ -27,9 +26,9 @@
 - pip install validate_email
 - pip install validate-docbr
 
-[Back To The Top](#bank-app-with-python)<br />
+[Back To The Top](#bank-app-with-python)
 
-
+<br />
 ---
 
 ## How To Use
@@ -43,9 +42,9 @@
 ```html
     <p>dummy code</p>
 ```
-[Back To The Top](#bank-app-with-python)<br />
+[Back To The Top](#bank-app-with-python)
 
-
+<br />
 ---
 
 ## License
@@ -72,9 +71,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#bank-app-with-python)<br />
+[Back To The Top](#bank-app-with-python)
 
-
+<br />
 ---
 
 ## Author Info
