@@ -38,9 +38,9 @@
 
 You can install from source with:
 
-```html
+.. code:: shell
     $ git clone https://github.com/python-telegram-bot/python-telegram-bot
-```
+
 
 
 #### API Reference
