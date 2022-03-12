@@ -18,10 +18,11 @@
 ---
 
 ## Description
-#### Here's a Python Project a made myself simulating a Bank System using Python 3.10.
+#### Here's a Python Project that I made myself simulating a Bank System using Python 3.10.
 #### The project gives to you the possibility to create accounts, make deposits, withdraws, transferences and list all existing accounts registered.
 #### In addition, account registration relies on CPF validation, whether e-mail exists, and date of birth with verification that the user must be over 18 to create an account.
 
+<br />
 
 ### Dependencies Needed 
 
