@@ -4,13 +4,7 @@
 
 > Here's an example of the project!
 
-
-
-
-
-
-
-
+<br />
 
 ---
 
@@ -33,7 +27,7 @@
 - pip install validate_email
 - pip install validate-docbr
 
-[Back To The Top](#bank-app-with-python)
+[Back To The Top](#bank-app-with-python)<br />
 
 
 ---
@@ -49,7 +43,7 @@
 ```html
     <p>dummy code</p>
 ```
-[Back To The Top](#bank-app-with-python)
+[Back To The Top](#bank-app-with-python)<br />
 
 
 ---
@@ -78,7 +72,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#bank-app-with-python)
+[Back To The Top](#bank-app-with-python)<br />
 
 
 ---
