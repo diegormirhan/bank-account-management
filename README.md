@@ -27,6 +27,7 @@
 - pip install validate-docbr
 
 [Back To The Top](#bank-app-with-python)
+
 <br />
 
 ---
@@ -43,6 +44,7 @@
     <p>dummy code</p>
 ```
 [Back To The Top](#bank-app-with-python)
+
 <br />
 
 ---
@@ -72,6 +74,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [Back To The Top](#bank-app-with-python)
+
 <br />
 
 ---
