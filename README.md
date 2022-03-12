@@ -46,7 +46,7 @@ with GitHub Cli:
 $ gh repo clone diegormirhan/Python-Bank
 ```
 or: 
-<a href="url">https://github.com/diegormirhan/Python-Bank/releases/tag/v1.0.0</a>
+<p href="url">https://github.com/diegormirhan/Python-Bank/releases/tag/v1.0.0</p>
 
 
 #### API Reference
