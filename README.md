@@ -3,8 +3,8 @@
 ![Project Image](https://s7.gifyu.com/images/GIF_2022_03_12_09_23_08.gif)
 
 > Here's an example of the project!
-
 <br />
+
 ---
 
 ### Summary
@@ -13,8 +13,8 @@
 - [How To Use](#how-to-use)
 - [License](#license)
 - [Author Info](#author-info)
-
 <br />
+
 ---
 
 ## Description
@@ -27,8 +27,8 @@
 - pip install validate-docbr
 
 [Back To The Top](#bank-app-with-python)
-
 <br />
+
 ---
 
 ## How To Use
@@ -43,8 +43,8 @@
     <p>dummy code</p>
 ```
 [Back To The Top](#bank-app-with-python)
-
 <br />
+
 ---
 
 ## License
@@ -72,8 +72,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [Back To The Top](#bank-app-with-python)
-
 <br />
+
 ---
 
 ## Author Info
