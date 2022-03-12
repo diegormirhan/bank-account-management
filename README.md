@@ -21,8 +21,9 @@
 
 
 
-#### Packages Needed 
+#### Dependencies Needed 
 
+- Python 3.10
 - pip install validate_email
 - pip install validate-docbr
 
@@ -45,14 +46,19 @@ with GitHub Cli:
 ```
 $ gh repo clone diegormirhan/Python-Bank
 ```
-or: 
+or downloading here: 
 <p href="url">https://github.com/diegormirhan/Python-Bank/releases/tag/v1.0.0</p>
 
+<br />
 
-#### API Reference
+#### Run
 
-```html
-    <p>$ git clone https://github.com/python-telegram-bot/python-telegram-bot</p>
+Install all the python packages required on [Packages Needed](packages-needed)
+
+Open cmd in the root folder of the project and run with:
+
+```
+$ python bank.py
 ```
 
 <br />
