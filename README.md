@@ -2,7 +2,7 @@
 
 ![Project Image](https://s7.gifyu.com/images/GIF_2022_03_12_09_23_08.gif)
 
-> This is a ReadMe template to help save you time and effort.
+> Here's an example of the project!
 ---
 
 ### Table of Contents
