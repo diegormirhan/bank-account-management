@@ -21,7 +21,7 @@
 
 
 
-#### Dependencies Needed 
+### Dependencies Needed 
 
 - Python 3.10
 - pip install validate_email
@@ -35,7 +35,7 @@
 
 ## How To Use
 
-#### Installation
+### Installation
 
 You can install from source with:
 
@@ -51,9 +51,9 @@ or downloading here:
 
 <br />
 
-#### Run
+### Run
 
-Install all the python packages required on [Packages Needed](packages-needed)
+> Install all the python packages required on [Dependencies](dependencies-needed).
 
 Open cmd in the root folder of the project and run with:
 
