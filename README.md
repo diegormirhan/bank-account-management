@@ -53,7 +53,7 @@ or downloading here:
 
 ### Run
 
-> Install all the python packages required on [Dependencies](dependencies-needed).
+> Install all the python packages required on [Dependencies](#dependencies-needed).
 
 Open cmd in the root folder of the project and run with:
 
