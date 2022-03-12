@@ -3,15 +3,17 @@
 ![Project Image](https://s7.gifyu.com/images/GIF_2022_03_12_09_23_08.gif)
 
 > Here's an example of the project!
+
+
 ---
 
 ### Summary
 
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
+
 
 ---
 
@@ -25,6 +27,7 @@
 - pip install validate-docbr
 
 [Back To The Top](#bank-app-with-python)
+
 
 ---
 
@@ -41,10 +44,6 @@
 ```
 [Back To The Top](#bank-app-with-python)
 
----
-
-## References
-[Back To The Top](#bank-app-with-python)
 
 ---
 
@@ -52,7 +51,7 @@
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) 2022 Diego R. Mirhan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -73,6 +72,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [Back To The Top](#bank-app-with-python)
+
 
 ---
 
