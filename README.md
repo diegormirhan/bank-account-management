@@ -105,4 +105,6 @@ SOFTWARE.
 - Portfolio - [Diego R. Mirhan](https://shor.by/diegomirhan)
 - LinkedIn - [@diegomirhan](https://www.linkedin.com/in/diegomirhan/)
 
+<br />
+
 [Back To The Top](#bank-app-with-python)
