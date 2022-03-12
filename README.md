@@ -21,9 +21,8 @@
 
 #### Packages Needed 
 
-- 
-- 
--
+- pip install validate_email
+- pip install validate-docbr
 
 [Back To The Top](#bank-app-with-python)
 
@@ -79,7 +78,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Portfolio - [@jamesqquick](https://shor.by/diegomirhan)
-- LinkedIn - [James Q Quick](https://www.linkedin.com/in/diegomirhan/)
+- Portfolio - [Diego R. Mirhan](https://shor.by/diegomirhan)
+- LinkedIn - [@diegomirhan](https://www.linkedin.com/in/diegomirhan/)
 
 [Back To The Top](#bank-app-with-python)
