@@ -39,7 +39,7 @@
 You can install from source with:
 
 ```html
-    <p>$ git clone https://github.com/python-telegram-bot/python-telegram-bot</p>
+    $ git clone https://github.com/python-telegram-bot/python-telegram-bot
 ```
 
 
