@@ -5,8 +5,7 @@
 > Here's an example of the project!
 ---
 
-### Table of Contents
-You're sections headers will be used to reference location of destination.
+### Summary
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -18,14 +17,15 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
 
-#### Technologies
 
-- Technology 1
-- Technology 2
+#### Packages Needed 
 
-[Back To The Top](#read-me-template)
+- 
+- 
+-
+
+[Back To The Top](#bank-app-with-python)
 
 ---
 
@@ -40,12 +40,12 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ```html
     <p>dummy code</p>
 ```
-[Back To The Top](#read-me-template)
+[Back To The Top](#bank-app-with-python)
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+[Back To The Top](#bank-app-with-python)
 
 ---
 
@@ -73,13 +73,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#bank-app-with-python)
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Portfolio - [@jamesqquick](https://shor.by/diegomirhan)
+- LinkedIn - [James Q Quick](https://www.linkedin.com/in/diegomirhan/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#bank-app-with-python)
