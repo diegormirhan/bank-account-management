@@ -1,48 +1,23 @@
 ## Description
-#### Here's a Python Project that I made myself simulating a Bank System using Python 3.10.
-#### The project gives to you the possibility to create accounts, make deposits, withdraws, transferences and list all existing accounts registered.
-#### In addition, account registration relies on CPF validation, whether e-mail exists, and date of birth with verification that the user must be over 18 to create an account.
+**Supreme Bank - Account Management System**
 
-<br />
+This GitHub repository houses a Python script for an Account Management System, designed to handle a variety of banking operations. This system, named "Supreme Bank," provides functionalities such as creating accounts, making withdrawals, deposits, and transfers, and listing existing accounts. The script is created to run in a command-line environment, offering a user-friendly interface for managing bank accounts.
 
-### Dependencies Needed 
+**Features:**
+- **Account Creation:** Create new customer accounts by entering essential details.
+- **Withdrawal and Deposit:** Perform financial transactions with withdrawal and deposit functionalities.
+- **Account Transfers:** Transfer funds between different accounts.
+- **Account Listing:** Display a list of all registered accounts.
+- **Input Validation:** Validate client email, CPF (Brazilian individual taxpayer registry), and birth date to ensure accurate and secure information.
+- **User-Friendly Menu:** Utilize a user-friendly menu system to navigate through different operations.
 
-- [Python 3.10.2](https://www.python.org/downloads/)
-- pip install validate_email
-- pip install validate-docbr
+**How to Use:**
+1. Run the script in a Python environment.
+2. The main menu will be displayed with numbered options.
+3. Select an option to create an account, make a withdrawal, deposit, transfer, list accounts, or exit.
+4. Follow the prompts to input necessary information or perform transactions.
 
-<br />
-
-
----
-
-## How To Use
-
-### Installation
-
-You can install from source with:
-
-```
-$ git clone https://github.com/python-telegram-bot/python-telegram-bot
-```
-with GitHub Cli:
-```
-$ gh repo clone diegormirhan/Python-Bank
-```
-or downloading here: 
-<p href="url">https://github.com/diegormirhan/Python-Bank/releases/tag/v1.0.0</p>
-
-<br />
-
-### Run
-
-> Install all the python packages required on [Dependencies](#dependencies-needed).
-
-Open cmd in the root folder of the project and run with:
-
-```
-$ python bank.py
-```
+This repository is an educational example that demonstrates fundamental programming concepts including input validation, data structures, and modular programming. It serves as a valuable resource for learning about banking operations and command-line interaction while applying Python skills in a real-world context.
 
 <br />
 
