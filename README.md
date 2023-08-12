@@ -13,7 +13,6 @@
 
 <br />
 
-[Back To The Top](#bank-app-with-python)
 
 ---
 
@@ -47,7 +46,6 @@ $ python bank.py
 
 <br />
 
-[Back To The Top](#bank-app-with-python)
 
 ---
 
@@ -77,13 +75,11 @@ SOFTWARE.
 
 <br />
 
-[Back To The Top](#bank-app-with-python)
 
 ---
 
 ## Author Info
 
-- Portfolio - [Diego R. Mirhan](https://shor.by/diegomirhan)
 - LinkedIn - [@diegomirhan](https://www.linkedin.com/in/diegomirhan/)
 
 <br />
