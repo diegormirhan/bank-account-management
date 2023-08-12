@@ -1,22 +1,3 @@
-# Bank App with Python
-
-![Project Image](https://s7.gifyu.com/images/GIF_2022_03_12_09_23_08.gif)
-
-> Here's an example of the project!
-<br />
-
----
-
-## Summary
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [License](#license)
-- [Author Info](#author-info)
-<br />
-
----
-
 ## Description
 #### Here's a Python Project that I made myself simulating a Bank System using Python 3.10.
 #### The project gives to you the possibility to create accounts, make deposits, withdraws, transferences and list all existing accounts registered.
